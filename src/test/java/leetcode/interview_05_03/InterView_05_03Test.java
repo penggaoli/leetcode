@@ -1,10 +1,9 @@
 package leetcode.interview_05_03;
 
+import interview.interview_05_03.InterView_05_03;
 import org.junit.Test;
 
 import java.util.logging.Logger;
-
-import static org.junit.Assert.*;
 
 public class InterView_05_03Test {
 

@@ -1,4 +1,4 @@
-package leetcode.interview_05_03;
+package interview.interview_05_03;
 
 import java.awt.*;
 

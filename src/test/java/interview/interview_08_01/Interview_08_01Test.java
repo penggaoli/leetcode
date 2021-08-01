@@ -1,10 +1,8 @@
-package leetcode.interview_08_01;
+package interview.interview_08_01;
 
 import org.junit.Test;
 
 import java.util.logging.Logger;
-
-import static org.junit.Assert.*;
 
 public class Interview_08_01Test {
 
